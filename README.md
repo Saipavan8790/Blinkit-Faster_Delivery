@@ -6,5 +6,7 @@ I worked on this project focused maily on developing the front end part of the w
 # Skills
 
 HTML
+
 CSS
+
 Bootstrap

@@ -3,7 +3,8 @@ Blinkit is an Indian instant delivery service. It was founded in December 2013 a
 
 I worked on this project focused maily on developing the front end part of the website.
 
-#Skills
+# Skills
+
 HTML
 CSS
 Bootstrap

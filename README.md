@@ -10,6 +10,7 @@ HTML
 CSS
 
 Bootstrap
+
 Navigation Bar using Bootstrap.
 
 Some required sections to minimise code easy.
@@ -35,3 +36,8 @@ Media query for All Size Screen.
 # Screenshots
 
 ![Web capture_2-9-2023_14814_](https://github.com/Saipavan8790/Blinkit-Faster_Delivery/assets/127079433/3da9f78d-c695-47e1-8be4-bc6ce1e42b14)
+
+
+
+# Links
+Deployment link https://saipavan8790.github.io/Blinkit-Faster_Delivery/

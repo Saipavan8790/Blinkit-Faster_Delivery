@@ -10,6 +10,9 @@ HTML
 CSS
 
 Bootstrap
+Navigation Bar using Bootstrap.
+
+Some required sections to minimise code easy.
 
 # Features
 

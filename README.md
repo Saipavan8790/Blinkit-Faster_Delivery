@@ -10,3 +10,25 @@ HTML
 CSS
 
 Bootstrap
+
+# Features
+
+A basic front-end view of website.
+
+Product slider for different categories.
+
+A cool slides without scroll bar.
+
+Highlight product card when Cursor on its.
+
+Product page for different categories.
+
+One stop place for all products.
+
+All social websites of Blinkit on Facebook Instagram Twitter Linkedin
+
+Media query for All Size Screen.
+
+# Screenshots
+
+![Web capture_2-9-2023_14814_](https://github.com/Saipavan8790/Blinkit-Faster_Delivery/assets/127079433/3da9f78d-c695-47e1-8be4-bc6ce1e42b14)
